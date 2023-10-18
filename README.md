@@ -1,8 +1,8 @@
 ### Hello recruiters and devs, I'm Felipe 😉
 
 - 📚 Graduating in Software Engineering
-- 🔭 I'm working with Front-End
-- 🌱 Studying TypeScript
+- 🔭 I'm working with FullStack 
+- 🌱 Studying Node.js / TypeScript
 - 😄 Pronouns: he/him
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=codefelipesa&show_icons=true&theme=highcontrast)
